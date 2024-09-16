@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ThucHanhWebMVC.Models;
 using X.PagedList;
-// Hello Thang
+
 namespace ThucHanhWebMVC.Controllers
 {
     public class HomeController : Controller
