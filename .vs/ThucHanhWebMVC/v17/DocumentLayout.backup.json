@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{736D88C2-FE9E-4424-AAB3-818A5954E07B}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,33 +65,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T17:33:05.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ThemSanPhamMoi.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-25T18:04:56.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DanhMucSanPham.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml*",
-              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-21T16:17:16.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
@@ -99,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeAdminController.cs",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCUAAABQAAAAAAAAAA==",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs*",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T17:13:11.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "blank-page.html",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Ogani\\PurpleAdmin-Free-Admin-Template-master\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
               "RelativeDocumentMoniker": "..\\Ogani\\PurpleAdmin-Free-Admin-Template-master\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -132,12 +149,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAAL0AAAAAAAAAAAAAwM4AAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T17:01:14.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T17:01:14.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\ScaffoldingReadMe.txt",
@@ -149,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\ProductDetail.cshtml",
@@ -161,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
@@ -173,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Controllers\\HomeController.cs",
@@ -185,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ChiTietSanPham.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\ChiTietSanPham.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\ChiTietSanPham.cshtml",
